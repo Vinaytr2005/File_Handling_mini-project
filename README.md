@@ -30,7 +30,7 @@ Based on your input, the program performs the selected operation interactively.
 
 ▶️ Usage
 1. Clone the repository
-git clone https://github.com/your-username/file-handling-python.git
+git clone https://github.com/Vinaytr2005/File_Handling_mini-project.git
 cd file-handling-python
 2. Run the script
 python your_script_name.py
